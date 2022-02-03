@@ -1,0 +1,209 @@
+body{
+    border: 10px solid green ;
+    margin:0px ;
+    background-image: url("https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+    height:4000px;
+}
+.box{
+    color: white;
+    background-color: black;
+    margin:20px 30px;
+    height:100px;
+    width: 350px;
+    border:4px solid rgb(0, 255, 76);
+    border-radius: 20px;
+    padding:20px;
+    font-style: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.style{
+    color: white;
+    background-color: black;
+    margin:0px 40px 40px 20px;
+    height:10px;
+    width: 400px;
+    border:4px solid rgb(0, 255, 64);
+    border-radius: 20px;
+    padding:25px;
+    font-size: 18px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    top:75px;
+    left:250px;
+}
+.contact{
+    color: white;   
+    background-color: black;
+    text-align: center;
+    width:360px;
+    border:4px solid greenyellow;
+    border-radius: 30px;
+    margin-left:900px ;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:20px;
+    position:absolute;
+    top:45px;
+}
+.form{
+    color: red;
+    text-align: center; 
+    padding:30px;
+    font-family: 'Quintessential', cursive; 
+    border:25px dashed red;
+    border-width: 10px;
+    background-color: white;
+    height:700px;
+    margin-left: 10px;
+    margin-right: 50px;
+    position:absolute;
+    top:350px;
+    left:580px;}
+.line2{
+    width: 346px;
+}
+.circle{
+    color:black;
+    background-color: #42f5b3;
+    padding:70px;
+    text-align: center;
+    font-size: 16px;
+    border:10px solid brown;
+    font-family: 'Supermercado One', cursive;
+    border-radius: 70%;
+    height: 220px;
+    width:220px;
+    margin:40px 40px;
+    position:absolute;
+    top:520px;
+    left:50px;
+}
+.line{
+    width: 343px;
+    position:relative;
+    right:52px;
+    
+}
+.line1{
+    width: 343px;
+    position:relative;
+    right:52px;
+}
+.test{
+    color: white;
+    background-color: black;
+    border:4px solid greenyellow;
+    border-radius: 35px;
+    padding:25px;
+    width:380px;
+    height:40px;
+    top:1150px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    left:420px;
+    top:1230px;
+}
+.flex-container{
+    color: black;
+    padding:25px;
+    height:850px;
+    width: 1200px;
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 1200px;
+    margin-left: 25px;
+}
+.flex1{
+    margin: 2rem;
+    height: 340px;
+    width: 310px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(11, 255, 235);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(28, 78, 87);
+    border: 3px solid green;
+}
+.flex2{
+    margin: 2rem;
+    height: 340px;
+    width: 310px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(11, 255, 235);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(28, 78, 87);
+    border: 3px solid green;
+}
+.flex3{
+    margin: 2rem;
+    height: 340px;
+    width: 310px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(11, 255, 235);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(28, 78, 87);
+    border: 3px solid green;
+}
+.flex4{
+    margin: 2rem;
+    height: 340px;
+    width: 310px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(11, 255, 235);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(28, 78, 87);
+    border: 3px solid green;
+}
+.flex5{
+    margin: 2rem;
+    height: 340px;
+    width: 310px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(11, 255, 235);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(28, 78, 87);
+    border: 3px solid green;
+}
+.flex5{
+    margin: 2rem;
+    height: 340px;
+    width: 310px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(11, 255, 235);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(28, 78, 87);
+    border: 3px solid green;
+}
+.flex6{
+    margin: 2rem;
+    height: 340px;
+    width: 310px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(11, 255, 235);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(28, 78, 87);
+    border: 3px solid green;
+}
